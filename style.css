@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    
+}
+.container{
+    margin: 100px auto;
+    width: 500px;
+    background-color: rgb(212, 225, 226);
+    padding: 50px;
+    border-radius: 10px;
+
+}
+button{
+    background-color: white;
+    color: black;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+#reset_btn{
+    background-color: red;
+    color: white;
+}
+#save_btn{
+    background-color: rgb(134, 223, 0);
+    color: white;
+}
